@@ -10,3 +10,5 @@ branch_aの作業を完了しました
 
 あああ
 
+push後 revert
+
